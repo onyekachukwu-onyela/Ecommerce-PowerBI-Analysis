@@ -41,6 +41,7 @@ A breakdown of what drives volume versus revenue.
 * **Top sellers by units:** World War 2 Gliders Assorted Designs (53,847 units) and Jumbo Bag Red Retrospot (47,363 units)
 * **Top revenue generators:** Regency Cakestand 3 Tier (£164.76K) and White Hanging Heart T-Light Holder (£99.67K)
 * **Returns spotlight:** Paper Craft, Little Birdie (80,995 units) and Medium Ceramic Top Storage Jar (74,494 units) recorded exceptionally high return volumes, suggesting the possibility of defective batches.
+  
 ![Product Performance](Screenshots/3_Product_Performance.png)
 
 ---
